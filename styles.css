@@ -95,7 +95,7 @@ background-repeat: no-repeat;
     color:transparent;
 }
 
-.img-text-wrapper:hover .subtitle {
+.img-text-wrapper:hover .subtitle a{
     font-weight: 600;
     color: lightseagreen;
 }
